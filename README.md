@@ -1,6 +1,3 @@
-# Yet-Another-Awesome
-Yet another awesome list, 
-
 #Yet Another Awesome!
 
 A sort-of curated index of swell techy stuff using the Yet Another prefix. Inspired by awesome-*_ awesome^awesome, awesome-etc, and the like.
