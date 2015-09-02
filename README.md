@@ -10,7 +10,7 @@ So... why not a list? Most of these are just pulled straight from my bookmarks, 
 
 ### Contributing
 
-Uh, y'know. Contribute things, and stuff. I look to [Awseome](https://github.com/sindresorhus/awesome/blob/master/contributing.md) for inspiration for guidelines on this stuff, but rules are whatever. You do you.
+Uh, y'know. Contribute things, and stuff. I look to [Awesome](https://github.com/sindresorhus/awesome/blob/master/contributing.md) for inspiration for guidelines on this stuff, but rules are whatever. You do you.
 
 # YA-AWESOME
 
