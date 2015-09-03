@@ -29,5 +29,8 @@ Uh, y'know. Contribute things, and stuff. I look to [Awesome](https://github.com
 [Ish. Yet Another Viewpoint Resizer](https://github.com/bradfrost/ish.)  
 [Yet Another Multicolumn Layout](https://github.com/yamlcss/yaml)  
 [Yet Another Gallery (For Typo3)](https://github.com/YAG-Gallery/yag)  
-
-
+[Yet Another Hack Manager (for Palm](http://yahm.palmoid.com/)
+[YACC (on Foldoc)](http://foldoc.org/Yacc)
+[YACC (Berkeley)](http://invisible-island.net/byacc/byacc.html)
+[YACC (in Python)](http://www.dabeaz.com/ply/)
+[Yet Another Hierarchically Organized Oracle](http://yahoo.com)
