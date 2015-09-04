@@ -1,10 +1,20 @@
 #Yet Another Awesome!
 
-A sort-of curated index of swell techy stuff using the Yet Another prefix. Inspired by awesome-*_ awesome^awesome, awesome-etc, and the like.
+A sort-of curated index of swell techy stuff using the Yet Another prefix. Inspired by awesome-*_ awesome^awesome, awesome-etc, and the like.  
 
 ### What's up with this?
 
-How many libraries, scripts, (web)apps, compilers, stylesheets, modules, or what-have-you, have you seen that begin with the words Yet Another? It's an interesting convention, defaulting to Yet Another (whether a title has eluded the developer or it just seemed appropriate).
+[The Jargon File](http://www.catb.org/~esr/jargon/html/Y/Yet-Another.html) says
+>Yet Another: adj.
+>
+>    [From Unix's yacc(1), ‘Yet Another Compiler-Compiler’, a LALR parser generator] 
+>
+>    1. Of your own work: A humorous allusion often used in titles to acknowledge
+>    that the topic is not original, though the content is. As in ‘Yet Another AI Group’
+>    or ‘Yet Another Simulated Annealing Algorithm’.
+
+
+How many libraries, scripts, (web)apps, compilers, stylesheets, modules, or what-have-you, have you seen that begin with the words Yet Another? It's an interesting convention, and it pops up seemingly everywhere.  
 
 So... why not a list? Most of these are just pulled straight from my bookmarks, to start with.
 
@@ -16,6 +26,9 @@ Uh, y'know. Contribute things, and stuff. I look to [Awesome](https://github.com
 
 (In no particular order; I'll get there.)
 
+[YACC (on Foldoc)](http://foldoc.org/Yacc)  
+[YACC (Berkeley)](http://invisible-island.net/byacc/byacc.html)  
+[YACC (in Python)](http://www.dabeaz.com/ply/)  
 [Yet Another Android Demo](https://github.com/sergedesmedt/YetAnotherAndroidDemo)  
 [Yet Another Minecraft Server](https://github.com/richardbenson/YAMS)  
 [Yet Another Hacker News Android Client](https://github.com/malmstein/yahnac)  
@@ -30,10 +43,9 @@ Uh, y'know. Contribute things, and stuff. I look to [Awesome](https://github.com
 [Yet Another Multicolumn Layout](https://github.com/yamlcss/yaml)  
 [Yet Another Gallery (For Typo3)](https://github.com/YAG-Gallery/yag)  
 [Yet Another Hack Manager (for Palm)](http://yahm.palmoid.com/)  
-[YACC (on Foldoc)](http://foldoc.org/Yacc)  
-[YACC (Berkeley)](http://invisible-island.net/byacc/byacc.html)  
-[YACC (in Python)](http://www.dabeaz.com/ply/)  
+
 [Yet Another Hierarchically Organized Oracle](http://yahoo.com)  
 [Yaws (Erlang Web server)](https://github.com/klacke/yaws)  
 [Yet Another Python Templating Utility](http://aima.cs.berkeley.edu/yaptu.py)  
 [Yash; Yet Another (*nix) SHell](http://www.samiam.org/software/yash.html)  
+[yaedit: yet another editor](http://www.logarithmic.net/pfh/yaedit)  
