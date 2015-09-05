@@ -43,7 +43,7 @@ Uh, y'know. Contribute things, and stuff. I look to [Awesome](https://github.com
 [Yet Another Multicolumn Layout](https://github.com/yamlcss/yaml)  
 [Yet Another Gallery (For Typo3)](https://github.com/YAG-Gallery/yag)  
 [Yet Another Hack Manager (for Palm)](http://yahm.palmoid.com/)  
-
+[Yet Another Broken WYSIWYG Editor](https://github.com/yabwe)  
 [Yet Another Hierarchically Organized Oracle](http://yahoo.com)  
 [Yaws (Erlang Web server)](https://github.com/klacke/yaws)  
 [Yet Another Python Templating Utility](http://aima.cs.berkeley.edu/yaptu.py)  
