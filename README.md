@@ -49,3 +49,8 @@ Uh, y'know. Contribute things, and stuff. I look to [Awesome](https://github.com
 [Yet Another Python Templating Utility](http://aima.cs.berkeley.edu/yaptu.py)  
 [Yash; Yet Another (*nix) SHell](http://www.samiam.org/software/yash.html)  
 [yaedit: yet another editor](http://www.logarithmic.net/pfh/yaedit)  
+[YAML]( http://yaml.org/) (Formerly; now recursive for YAML Ain't Markup Language)  
+[Yet Another Setup Tool](https://en.opensuse.org/Portal:YaST)  
+[Yandex](http://yandex.com) (Originally Yet Another iNDEXer)  
+[Yet Another Flash File System](http://yaffs.net)  
+
