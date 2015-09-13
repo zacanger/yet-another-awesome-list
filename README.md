@@ -33,8 +33,8 @@ Uh, y'know. Contribute things, and stuff. I look to [Awesome](https://github.com
 [Yet Another Minecraft Server](https://github.com/richardbenson/YAMS)  
 [Yet Another Hacker News Android Client](https://github.com/malmstein/yahnac)  
 [Yet Another React Starter Kit](https://github.com/bradleyboy/yarsk)  
-[Yet Another Template Engine](https://github.com/bradleyboy/yarsk) (RU)  
-[Yet Another Megamenu For Bootstrap](https://github.com/geedmo/yamm)  
+[Yet Another Template Engine](https://github.com/pasaran/yate) (RU)  
+[Yet Another Megamenu For Bootstrap](https://github.com/geedmo/yamm), and  
 [Yet Another Megamenu For Bootstrap 3](https://github.com/geedmo/yamm3)  
 [Yet Another Aria2 Web Frontend](https://github.com/binux/yaaw)  
 [Yet Another JSON Library](https://github.com/gabriel/yajl-objc)  
@@ -44,7 +44,7 @@ Uh, y'know. Contribute things, and stuff. I look to [Awesome](https://github.com
 [Yet Another Gallery (For Typo3)](https://github.com/YAG-Gallery/yag)  
 [Yet Another Hack Manager (for Palm)](http://yahm.palmoid.com/)  
 [Yet Another Broken WYSIWYG Editor](https://github.com/yabwe)  
-[Yet Another Hierarchically Organized Oracle](http://yahoo.com)  
+[Yet Another Hierarchically Organized Oracle](http://yahoo.com) (Also Yet Another Hierarchical Officious Oracle)  
 [Yaws (Erlang Web server)](https://github.com/klacke/yaws)  
 [Yet Another Python Templating Utility](http://aima.cs.berkeley.edu/yaptu.py)  
 [Yash; Yet Another (*nix) SHell](http://www.samiam.org/software/yash.html)  
@@ -54,5 +54,4 @@ Uh, y'know. Contribute things, and stuff. I look to [Awesome](https://github.com
 [Yandex](http://yandex.com) (Originally Yet Another iNDEXer)  
 [Yet Another Flash File System](http://yaffs.net)  
 [Yet Another (different) Framework](http://yafra.org). 
-
 
