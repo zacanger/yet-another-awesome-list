@@ -72,3 +72,4 @@ for inspiration for guidelines on this stuff.
 * [Yet Another Logger](https://github.com/segmentio/yal)
 * [Yet Another Dotfiles Manager](https://github.com/TheLocehiliosan/yadm)
 * [Yet Another SrcSet Implementation](https://github.com/EightMedia/yass.js)
+* [Yet Another Brainfuck Interpreter In Rust](https://github.com/s3rvac/yabir)
