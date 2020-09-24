@@ -76,3 +76,5 @@ for inspiration for guidelines on this stuff.
 * [Yet Another SrcSet Implementation](https://github.com/EightMedia/yass.js)
 * [Yet Another Brainfuck Interpreter In Rust](https://github.com/s3rvac/yabir)
 * [Yet Another Elegant Go Interpreter](https://github.com/containous/yaegi)
+* [Yet Another Yogurt (Arch Linux AUR Helper)](https://github.com/Jguer/yay)
+* [Yet AnOther User Repository Tool (Arch Linux AUR Helper)](https://archlinux.fr/yaourt-en)
