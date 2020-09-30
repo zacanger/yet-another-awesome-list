@@ -1,4 +1,4 @@
-# Yet Another Awesome [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# Yet Another Awesome List [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 An index of swell techy stuff using the `Yet Another` prefix. See [here](./.github/CONTRIBUTING.md) if you'd like to add something.
 
