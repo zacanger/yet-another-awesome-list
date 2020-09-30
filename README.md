@@ -1,7 +1,6 @@
-# Yet Another Awesome!
+# Yet Another Awesome [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-A sort-of curated index of swell techy stuff using the Yet Another prefix.
-Inspired by awesome-*_ awesome^awesome, awesome-etc, and the like.
+An index of swell techy stuff using the `Yet Another` prefix. See [here](./.github/CONTRIBUTING.md) if you'd like to add something.
 
 [![Support with PayPal](https://img.shields.io/badge/paypal-donate-yellow.png)](https://paypal.me/zacanger) [![Patreon](https://img.shields.io/badge/patreon-donate-yellow.svg)](https://www.patreon.com/zacanger) [![ko-fi](https://img.shields.io/badge/donate-KoFi-yellow.svg)](https://ko-fi.com/U7U2110VB)
 
@@ -15,23 +14,6 @@ Inspired by awesome-*_ awesome^awesome, awesome-etc, and the like.
 >    1. Of your own work: A humorous allusion often used in titles to acknowledge
 >    that the topic is not original, though the content is. As in ‘Yet Another AI Group’
 >    or ‘Yet Another Simulated Annealing Algorithm’.
-
-
-How many libraries, scripts, (web)apps, compilers, stylesheets, modules, or
-what-have-you, have you seen that begin with the words Yet Another? It's an
-interesting convention, and it pops up seemingly everywhere.
-
-So... why not a list?
-
-### Contributing
-
-Uh, y'know. Contribute things, and stuff. I look to
-[Awesome](https://github.com/sindresorhus/awesome/blob/master/contributing.md)
-for inspiration for guidelines on this stuff.
-
-# YA-AWESOME
-
-(In no particular order.)
 
 * [YACC (on Foldoc)](http://foldoc.org/Yacc)
 * [YACC (Berkeley)](http://invisible-island.net/byacc/byacc.html)
@@ -54,7 +36,6 @@ for inspiration for guidelines on this stuff.
 * [Yet Another Hierarchically Organized Oracle](http://yahoo.com) (Also Yet Another Hierarchical Officious Oracle)
 * [Yaws (Erlang Web server)](https://github.com/klacke/yaws)
 * [Yet Another Python Templating Utility](http://aima.cs.berkeley.edu/yaptu.py)
-* [Yash; Yet Another (*nix) SHell](http://www.samiam.org/software/yash.html)
 * [yaedit: yet another editor](http://www.logarithmic.net/pfh/yaedit)
 * [YAML]( http://yaml.org/) (Formerly; now recursive for YAML Ain't Markup Language)
 * [Yet Another Setup Tool](https://en.opensuse.org/Portal:YaST)
@@ -79,3 +60,4 @@ for inspiration for guidelines on this stuff.
 * [Yet Another Yogurt (Arch Linux AUR Helper)](https://github.com/Jguer/yay)
 * [Yet AnOther User Repository Tool (Arch Linux AUR Helper)](https://archlinux.fr/yaourt-en)
 * [Yet Another Shell](https://yash.osdn.jp/)
+* [Yash; Yet Another (*nix) SHell](http://www.samiam.org/software/yash.html)
