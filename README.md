@@ -78,3 +78,4 @@ for inspiration for guidelines on this stuff.
 * [Yet Another Elegant Go Interpreter](https://github.com/containous/yaegi)
 * [Yet Another Yogurt (Arch Linux AUR Helper)](https://github.com/Jguer/yay)
 * [Yet AnOther User Repository Tool (Arch Linux AUR Helper)](https://archlinux.fr/yaourt-en)
+* [Yet Another Shell](https://yash.osdn.jp/)
