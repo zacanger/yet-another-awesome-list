@@ -2,6 +2,8 @@
 
 An index of swell techy stuff using the `Yet Another` prefix. See [here](./.github/CONTRIBUTING.md) if you'd like to add something.
 
+[Donate](https://ko-fi.com/zacanger)
+
 ### What's up with this?
 
 [The Jargon File](http://www.catb.org/~esr/jargon/html/Y/Yet-Another.html) says:
